@@ -8,4 +8,4 @@ without being given a users password. Users can log in to multiple websites with
 To start the project, you need:
 
 1. Install the libraries necessary for the project, to install the necessary libraries: `pip install -r requirements.txt`
-2. Being in the file folder "manage.py", run the project with the command:  `python3 manage.py runserver` .
+2. Being in the file folder "manage.py", run the project with the command:  `python3 manage.py runserver`
