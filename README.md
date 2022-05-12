@@ -26,3 +26,5 @@ To start the project, you need:
 ![alt text](readme_img/page4.png "image")
 
 
+
+Source: https://www.section.io/engineering-education/django-google-oauth/ 
