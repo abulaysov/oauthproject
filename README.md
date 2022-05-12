@@ -12,10 +12,17 @@ To start the project, you need:
 
 
 
+
+
 ![alt text](readme_img/page1.png "image")
+
 
 ![alt text](readme_img/page2.png "image")
 
+
 ![alt text](readme_img/page3.png "image")
 
+
 ![alt text](readme_img/page4.png "image")
+
+
