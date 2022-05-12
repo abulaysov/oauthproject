@@ -11,4 +11,11 @@ To start the project, you need:
 2. Being in the file folder "manage.py", run the project with the command:  `python3 manage.py runserver`
 
 
-![alt text](readme_img/page1.png "Title")
+
+![alt text](readme_img/page1.png "image")
+
+![alt text](readme_img/page2.png "image")
+
+![alt text](readme_img/page3.png "image")
+
+![alt text](readme_img/page4.png "image")
